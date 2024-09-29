@@ -3,8 +3,9 @@ import os
 import cv2
 from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, CommandHandler
+from secret import Bot_token
 
-Bot_token = "7653707701:AAHuwk3VbWo45XzVEAFysphZC3f564e6-vY"
+Bot_token = Bot_token
 WEBCAM_PHOTO_PATH = "/tmp/webcam_photo.png"
 SCREENSHOT_PATH = "/tmp/screenshot.png"
 
