@@ -1,5 +1,5 @@
 # Telegram_bot_control
-# you-can-use-this in your pc by creating an new bot 
+# You can create the bots in the bot "Father Bot"
 - and copy the bot token 
 - put it in the bot token place in the mainfile
 
